@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Omo Moses 07777777
         </a>
       </header>
     </div>
